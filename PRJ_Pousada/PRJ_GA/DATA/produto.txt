@@ -1,0 +1,5 @@
+1	Água Mineral	5.0
+2	Refrigerante	8.0
+3	Cerveja	10.0
+4	Sanduíche	15.0
+5	Chocolate	7.0
